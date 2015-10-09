@@ -1,0 +1,30 @@
+
+html {
+	font-family: helvetica;
+}
+
+body {
+	font-size: medium;
+}
+
+h1.important-logo {
+	color: red;
+}
+
+.center-logo {
+	text-align: center;
+}
+
+.big-button {
+	width: 150px;
+}
+
+fieldset {
+	margin: 20px;
+	background-color: #22fa0a;
+	padding: 20px;
+}
+
+.textbox-with-padding {
+	padding: 10px;
+}
